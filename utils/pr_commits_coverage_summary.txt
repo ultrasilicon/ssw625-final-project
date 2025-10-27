@@ -1,0 +1,24 @@
+PR Coverage Analysis - pr_commits.csv
+==================================================
+
+Analysis Date: 2025-10-22 20:38:16
+Processing Time: 0.25 seconds
+Rows Processed: 88,576
+
+COVERAGE SUMMARY
+--------------------
+Total PR IDs to check: 40,214
+Total found in pr_commits: 33,580
+Overall coverage: 83.50%
+
+DETAILED BREAKDOWN
+--------------------
+Human PRs: 0/6,618 found (0.00%)
+AI PRs: 33,580/33,596 found (99.95%)
+Human PRs missing: 6,618
+AI PRs missing: 16
+
+ADDITIONAL INSIGHTS
+--------------------
+Total unique PR IDs in pr_commits.csv: 33,580
+PR IDs in pr_commits but not in human/AI datasets: 0

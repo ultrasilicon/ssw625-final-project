@@ -1,0 +1,10 @@
+PR Coverage Analysis Summary
+==================================================
+
+Total PR IDs to check: 40,214
+Total found in commit details: 33,580
+Overall coverage: 83.50%
+
+Human PRs: 0/6,618 found
+AI PRs: 33,580/33,596 found
+Processing time: 106.08 seconds
