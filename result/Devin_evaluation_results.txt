@@ -1,0 +1,171 @@
+PR Description Evaluation Results - Devin
+============================================================
+
+PR ID: 3267932256
+Coverage of Purpose: 5/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 5/5
+Testing Guidance: 5/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2946750926
+Coverage of Purpose: 4/5
+Coverage of Changes: 4/5
+Rationale Clarity: 4/5
+Commit Coverage: 4/5
+Testing Guidance: 4/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2837133189
+Coverage of Purpose: 4/5
+Coverage of Changes: 4/5
+Rationale Clarity: 4/5
+Commit Coverage: 3/5
+Testing Guidance: 4/5
+Readability: 5/5
+----------------------------------------
+PR ID: 2811847514
+Coverage of Purpose: 3/5
+Coverage of Changes: 4/5
+Rationale Clarity: 3/5
+Commit Coverage: 3/5
+Testing Guidance: 2/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2973358502
+Coverage of Purpose: 4/5
+Coverage of Changes: 4/5
+Rationale Clarity: 3/5
+Commit Coverage: 4/5
+Testing Guidance: 2/5
+Readability: 4/5
+----------------------------------------
+PR ID: 3019980620
+Coverage of Purpose: 3/5
+Coverage of Changes: 2/5
+Rationale Clarity: 2/5
+Commit Coverage: 4/5
+Testing Guidance: 1/5
+Readability: 5/5
+----------------------------------------
+PR ID: 2844977926
+Coverage of Purpose: 4/5
+Coverage of Changes: 4/5
+Rationale Clarity: 4/5
+Commit Coverage: 5/5
+Testing Guidance: 4/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2976318527
+Coverage of Purpose: 3/5
+Coverage of Changes: 4/5
+Rationale Clarity: 3/5
+Commit Coverage: 3/5
+Testing Guidance: 5/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2867049623
+Coverage of Purpose: 4/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 4/5
+Testing Guidance: 3/5
+Readability: 5/5
+----------------------------------------
+PR ID: 3075525976
+Coverage of Purpose: 4/5
+Coverage of Changes: 4/5
+Rationale Clarity: 4/5
+Commit Coverage: 4/5
+Testing Guidance: 3/5
+Readability: 4/5
+----------------------------------------
+PR ID: 3011968538
+Coverage of Purpose: 4/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 3/5
+Testing Guidance: 2/5
+Readability: 4/5
+----------------------------------------
+PR ID: 3132430389
+Coverage of Purpose: 5/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 5/5
+Testing Guidance: 2/5
+Readability: 4/5
+----------------------------------------
+PR ID: 3067975590
+Coverage of Purpose: 4/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 5/5
+Testing Guidance: 2/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2914582204
+Coverage of Purpose: 5/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 3/5
+Testing Guidance: 2/5
+Readability: 4/5
+----------------------------------------
+PR ID: 3070322024
+Coverage of Purpose: 5/5
+Coverage of Changes: 4/5
+Rationale Clarity: 4/5
+Commit Coverage: 4/5
+Testing Guidance: 4/5
+Readability: 4/5
+----------------------------------------
+PR ID: 3062904406
+Coverage of Purpose: 4/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 4/5
+Testing Guidance: 5/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2961263653
+Coverage of Purpose: 3/5
+Coverage of Changes: 4/5
+Rationale Clarity: 3/5
+Commit Coverage: 4/5
+Testing Guidance: 2/5
+Readability: 5/5
+----------------------------------------
+PR ID: 3003074857
+Coverage of Purpose: 4/5
+Coverage of Changes: 4/5
+Rationale Clarity: 4/5
+Commit Coverage: 4/5
+Testing Guidance: 5/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2838987433
+Coverage of Purpose: 3/5
+Coverage of Changes: 4/5
+Rationale Clarity: 3/5
+Commit Coverage: 3/5
+Testing Guidance: 4/5
+Readability: 4/5
+----------------------------------------
+PR ID: 2921453977
+Coverage of Purpose: 5/5
+Coverage of Changes: 5/5
+Rationale Clarity: 4/5
+Commit Coverage: 5/5
+Testing Guidance: 4/5
+Readability: 5/5
+----------------------------------------
+
+AVERAGE SCORES:
+Coverage of Purpose: 4.00
+Coverage of Changes: 4.30
+Rationale Clarity: 3.65
+Commit Coverage: 3.95
+Testing Guidance: 3.25
+Readability: 4.25
