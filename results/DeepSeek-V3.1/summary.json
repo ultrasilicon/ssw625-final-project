@@ -1,0 +1,66 @@
+{
+  "model": "DeepSeek-V3.1",
+  "evaluation_date": "2025-11-19 16:58:31",
+  "agents": {
+    "Claude_Code": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.683333333333334,
+        "coverage_changes": 4.23,
+        "rationale_clarity": 3.7333333333333334,
+        "commit_coverage": 4.06,
+        "testing_guidance": 3.1433333333333335,
+        "readability": 4.51
+      },
+      "overall_average": 4.06
+    },
+    "Copilot": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.76,
+        "coverage_changes": 4.336666666666667,
+        "rationale_clarity": 3.9833333333333334,
+        "commit_coverage": 3.8133333333333335,
+        "testing_guidance": 3.12,
+        "readability": 4.493333333333333
+      },
+      "overall_average": 4.084444444444444
+    },
+    "Cursor": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.88,
+        "coverage_changes": 3.85,
+        "rationale_clarity": 3.0966666666666667,
+        "commit_coverage": 3.9033333333333333,
+        "testing_guidance": 2.1666666666666665,
+        "readability": 3.68
+      },
+      "overall_average": 3.4294444444444445
+    },
+    "Devin": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.453333333333333,
+        "coverage_changes": 4.023333333333333,
+        "rationale_clarity": 3.7733333333333334,
+        "commit_coverage": 4.02,
+        "testing_guidance": 3.1933333333333334,
+        "readability": 4.183333333333334
+      },
+      "overall_average": 3.9411111111111112
+    },
+    "OpenAI_Codex": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.83,
+        "coverage_changes": 3.7133333333333334,
+        "rationale_clarity": 3.0633333333333335,
+        "commit_coverage": 3.9133333333333336,
+        "testing_guidance": 3.1266666666666665,
+        "readability": 3.8533333333333335
+      },
+      "overall_average": 3.5833333333333335
+    }
+  }
+}

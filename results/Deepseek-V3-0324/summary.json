@@ -1,0 +1,66 @@
+{
+  "model": "Deepseek-V3-0324",
+  "evaluation_date": "2025-11-19 14:26:27",
+  "agents": {
+    "Claude_Code": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.51,
+        "coverage_changes": 4.386666666666667,
+        "rationale_clarity": 3.9966666666666666,
+        "commit_coverage": 4.266666666666667,
+        "testing_guidance": 3.3733333333333335,
+        "readability": 4.406666666666666
+      },
+      "overall_average": 4.156666666666666
+    },
+    "Copilot": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.6433333333333335,
+        "coverage_changes": 4.41,
+        "rationale_clarity": 4.196666666666666,
+        "commit_coverage": 4.01,
+        "testing_guidance": 3.4233333333333333,
+        "readability": 4.336666666666667
+      },
+      "overall_average": 4.17
+    },
+    "Cursor": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.756666666666667,
+        "coverage_changes": 3.816666666666667,
+        "rationale_clarity": 3.2133333333333334,
+        "commit_coverage": 3.85,
+        "testing_guidance": 2.4833333333333334,
+        "readability": 3.683333333333333
+      },
+      "overall_average": 3.4672222222222224
+    },
+    "Devin": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.266666666666667,
+        "coverage_changes": 4.05,
+        "rationale_clarity": 3.72,
+        "commit_coverage": 4.066666666666666,
+        "testing_guidance": 3.23,
+        "readability": 4.1066666666666665
+      },
+      "overall_average": 3.9066666666666663
+    },
+    "OpenAI_Codex": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.6433333333333335,
+        "coverage_changes": 3.7266666666666666,
+        "rationale_clarity": 2.96,
+        "commit_coverage": 3.8633333333333333,
+        "testing_guidance": 3.3833333333333333,
+        "readability": 3.8933333333333335
+      },
+      "overall_average": 3.578333333333333
+    }
+  }
+}

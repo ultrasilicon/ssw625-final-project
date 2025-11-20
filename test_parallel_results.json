@@ -1,0 +1,1013 @@
+{
+  "test_date": "2025-11-19 11:25:49",
+  "execution_time_seconds": 2.46,
+  "sample_size_per_agent": 10,
+  "models_tested": [
+    "Deepseek-V3-0324",
+    "DeepSeek-V3.1",
+    "Grok-3",
+    "GPT-4.1"
+  ],
+  "agents_tested": [
+    "Claude_Code",
+    "Copilot"
+  ],
+  "results": {
+    "Claude_Code": {
+      "Deepseek-V3-0324": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 3.8,
+          "coverage_changes": 3.9,
+          "rationale_clarity": 3.1,
+          "commit_coverage": 3.2,
+          "testing_guidance": 3.0,
+          "readability": 3.5
+        },
+        "overall_average": 3.4166666666666665,
+        "results": [
+          {
+            "pr_id": 3069923749,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 2,
+            "coverage_changes": 5,
+            "rationale_clarity": 4,
+            "commit_coverage": 2,
+            "testing_guidance": 4,
+            "readability": 5
+          },
+          {
+            "pr_id": 3235820229,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 3,
+            "rationale_clarity": 4,
+            "commit_coverage": 3,
+            "testing_guidance": 2,
+            "readability": 3
+          },
+          {
+            "pr_id": 2889940415,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 3,
+            "rationale_clarity": 5,
+            "commit_coverage": 2,
+            "testing_guidance": 3,
+            "readability": 1
+          },
+          {
+            "pr_id": 3253582273,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 5,
+            "coverage_changes": 4,
+            "rationale_clarity": 3,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 5
+          },
+          {
+            "pr_id": 3154096278,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 5,
+            "rationale_clarity": 4,
+            "commit_coverage": 5,
+            "testing_guidance": 3,
+            "readability": 5
+          },
+          {
+            "pr_id": 3145238894,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 5,
+            "rationale_clarity": 2,
+            "commit_coverage": 3,
+            "testing_guidance": 5,
+            "readability": 5
+          },
+          {
+            "pr_id": 3138222448,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 5,
+            "coverage_changes": 4,
+            "rationale_clarity": 1,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 1
+          },
+          {
+            "pr_id": 3094661465,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 3,
+            "coverage_changes": 4,
+            "rationale_clarity": 2,
+            "commit_coverage": 5,
+            "testing_guidance": 2,
+            "readability": 5
+          },
+          {
+            "pr_id": 3251544513,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 2,
+            "rationale_clarity": 3,
+            "commit_coverage": 4,
+            "testing_guidance": 2,
+            "readability": 1
+          },
+          {
+            "pr_id": 3037457814,
+            "agent": "Claude_Code",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 3,
+            "coverage_changes": 4,
+            "rationale_clarity": 3,
+            "commit_coverage": 4,
+            "testing_guidance": 5,
+            "readability": 4
+          }
+        ]
+      },
+      "DeepSeek-V3.1": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 2.6,
+          "coverage_changes": 3.1,
+          "rationale_clarity": 3.1,
+          "commit_coverage": 2.6,
+          "testing_guidance": 2.8,
+          "readability": 2.3
+        },
+        "overall_average": 2.75,
+        "results": [
+          {
+            "pr_id": 3069923749,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 3,
+            "rationale_clarity": 1,
+            "commit_coverage": 4,
+            "testing_guidance": 5,
+            "readability": 1
+          },
+          {
+            "pr_id": 2889940415,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 1,
+            "rationale_clarity": 5,
+            "commit_coverage": 2,
+            "testing_guidance": 5,
+            "readability": 2
+          },
+          {
+            "pr_id": 3235820229,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 3,
+            "rationale_clarity": 4,
+            "commit_coverage": 3,
+            "testing_guidance": 1,
+            "readability": 2
+          },
+          {
+            "pr_id": 3253582273,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 2,
+            "coverage_changes": 4,
+            "rationale_clarity": 1,
+            "commit_coverage": 3,
+            "testing_guidance": 5,
+            "readability": 2
+          },
+          {
+            "pr_id": 3145238894,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 2,
+            "coverage_changes": 5,
+            "rationale_clarity": 5,
+            "commit_coverage": 1,
+            "testing_guidance": 5,
+            "readability": 3
+          },
+          {
+            "pr_id": 3154096278,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 3,
+            "rationale_clarity": 3,
+            "commit_coverage": 2,
+            "testing_guidance": 1,
+            "readability": 2
+          },
+          {
+            "pr_id": 3138222448,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 2,
+            "rationale_clarity": 1,
+            "commit_coverage": 1,
+            "testing_guidance": 3,
+            "readability": 1
+          },
+          {
+            "pr_id": 3094661465,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 4,
+            "rationale_clarity": 4,
+            "commit_coverage": 4,
+            "testing_guidance": 1,
+            "readability": 1
+          },
+          {
+            "pr_id": 3251544513,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 1,
+            "rationale_clarity": 2,
+            "commit_coverage": 4,
+            "testing_guidance": 1,
+            "readability": 4
+          },
+          {
+            "pr_id": 3037457814,
+            "agent": "Claude_Code",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 5,
+            "rationale_clarity": 5,
+            "commit_coverage": 2,
+            "testing_guidance": 1,
+            "readability": 5
+          }
+        ]
+      },
+      "Grok-3": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 2.1,
+          "coverage_changes": 2.2,
+          "rationale_clarity": 2.7,
+          "commit_coverage": 3.5,
+          "testing_guidance": 1.8,
+          "readability": 3.1
+        },
+        "overall_average": 2.566666666666667,
+        "results": [
+          {
+            "pr_id": 3235820229,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 3,
+            "coverage_changes": 1,
+            "rationale_clarity": 1,
+            "commit_coverage": 4,
+            "testing_guidance": 1,
+            "readability": 3
+          },
+          {
+            "pr_id": 3069923749,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 1,
+            "coverage_changes": 1,
+            "rationale_clarity": 2,
+            "commit_coverage": 3,
+            "testing_guidance": 1,
+            "readability": 2
+          },
+          {
+            "pr_id": 2889940415,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 2,
+            "coverage_changes": 2,
+            "rationale_clarity": 5,
+            "commit_coverage": 5,
+            "testing_guidance": 3,
+            "readability": 5
+          },
+          {
+            "pr_id": 3253582273,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 1,
+            "coverage_changes": 1,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 4,
+            "readability": 5
+          },
+          {
+            "pr_id": 3154096278,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 1,
+            "coverage_changes": 3,
+            "rationale_clarity": 5,
+            "commit_coverage": 5,
+            "testing_guidance": 2,
+            "readability": 2
+          },
+          {
+            "pr_id": 3145238894,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 5,
+            "coverage_changes": 5,
+            "rationale_clarity": 2,
+            "commit_coverage": 5,
+            "testing_guidance": 2,
+            "readability": 1
+          },
+          {
+            "pr_id": 3138222448,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 2,
+            "coverage_changes": 4,
+            "rationale_clarity": 4,
+            "commit_coverage": 2,
+            "testing_guidance": 1,
+            "readability": 1
+          },
+          {
+            "pr_id": 3094661465,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 3,
+            "coverage_changes": 1,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 5
+          },
+          {
+            "pr_id": 3251544513,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 2,
+            "coverage_changes": 2,
+            "rationale_clarity": 3,
+            "commit_coverage": 2,
+            "testing_guidance": 1,
+            "readability": 5
+          },
+          {
+            "pr_id": 3037457814,
+            "agent": "Claude_Code",
+            "model": "Grok-3",
+            "coverage_purpose": 1,
+            "coverage_changes": 2,
+            "rationale_clarity": 1,
+            "commit_coverage": 5,
+            "testing_guidance": 1,
+            "readability": 2
+          }
+        ]
+      },
+      "GPT-4.1": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 3.0,
+          "coverage_changes": 1.8,
+          "rationale_clarity": 3.5,
+          "commit_coverage": 2.9,
+          "testing_guidance": 3.5,
+          "readability": 2.8
+        },
+        "overall_average": 2.9166666666666665,
+        "results": [
+          {
+            "pr_id": 3069923749,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 2,
+            "rationale_clarity": 4,
+            "commit_coverage": 3,
+            "testing_guidance": 3,
+            "readability": 2
+          },
+          {
+            "pr_id": 3235820229,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 1,
+            "rationale_clarity": 5,
+            "commit_coverage": 3,
+            "testing_guidance": 5,
+            "readability": 3
+          },
+          {
+            "pr_id": 3253582273,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 3,
+            "rationale_clarity": 2,
+            "commit_coverage": 4,
+            "testing_guidance": 4,
+            "readability": 4
+          },
+          {
+            "pr_id": 2889940415,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 1,
+            "rationale_clarity": 5,
+            "commit_coverage": 3,
+            "testing_guidance": 3,
+            "readability": 1
+          },
+          {
+            "pr_id": 3154096278,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 1,
+            "rationale_clarity": 4,
+            "commit_coverage": 1,
+            "testing_guidance": 5,
+            "readability": 2
+          },
+          {
+            "pr_id": 3145238894,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 2,
+            "coverage_changes": 5,
+            "rationale_clarity": 2,
+            "commit_coverage": 3,
+            "testing_guidance": 4,
+            "readability": 3
+          },
+          {
+            "pr_id": 3138222448,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 1,
+            "rationale_clarity": 1,
+            "commit_coverage": 5,
+            "testing_guidance": 1,
+            "readability": 1
+          },
+          {
+            "pr_id": 3094661465,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 2,
+            "coverage_changes": 2,
+            "rationale_clarity": 4,
+            "commit_coverage": 4,
+            "testing_guidance": 4,
+            "readability": 2
+          },
+          {
+            "pr_id": 3251544513,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 1,
+            "rationale_clarity": 3,
+            "commit_coverage": 1,
+            "testing_guidance": 1,
+            "readability": 5
+          },
+          {
+            "pr_id": 3037457814,
+            "agent": "Claude_Code",
+            "model": "GPT-4.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 1,
+            "rationale_clarity": 5,
+            "commit_coverage": 2,
+            "testing_guidance": 5,
+            "readability": 5
+          }
+        ]
+      }
+    },
+    "Copilot": {
+      "Deepseek-V3-0324": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 2.8,
+          "coverage_changes": 3.0,
+          "rationale_clarity": 2.6,
+          "commit_coverage": 2.5,
+          "testing_guidance": 2.9,
+          "readability": 3.3
+        },
+        "overall_average": 2.85,
+        "results": [
+          {
+            "pr_id": 3079632972,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 3,
+            "coverage_changes": 1,
+            "rationale_clarity": 2,
+            "commit_coverage": 3,
+            "testing_guidance": 3,
+            "readability": 2
+          },
+          {
+            "pr_id": 3094173620,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 1,
+            "coverage_changes": 2,
+            "rationale_clarity": 3,
+            "commit_coverage": 1,
+            "testing_guidance": 1,
+            "readability": 5
+          },
+          {
+            "pr_id": 3209849017,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 2,
+            "coverage_changes": 4,
+            "rationale_clarity": 2,
+            "commit_coverage": 1,
+            "testing_guidance": 3,
+            "readability": 3
+          },
+          {
+            "pr_id": 3268346615,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 3,
+            "rationale_clarity": 3,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 1
+          },
+          {
+            "pr_id": 3261757119,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 2,
+            "coverage_changes": 3,
+            "rationale_clarity": 1,
+            "commit_coverage": 4,
+            "testing_guidance": 1,
+            "readability": 5
+          },
+          {
+            "pr_id": 3242348833,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 3,
+            "coverage_changes": 5,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 4,
+            "readability": 4
+          },
+          {
+            "pr_id": 3178309782,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 4,
+            "rationale_clarity": 4,
+            "commit_coverage": 2,
+            "testing_guidance": 5,
+            "readability": 4
+          },
+          {
+            "pr_id": 3159523566,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 2,
+            "coverage_changes": 1,
+            "rationale_clarity": 3,
+            "commit_coverage": 5,
+            "testing_guidance": 5,
+            "readability": 3
+          },
+          {
+            "pr_id": 3140383522,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 4,
+            "coverage_changes": 2,
+            "rationale_clarity": 2,
+            "commit_coverage": 1,
+            "testing_guidance": 4,
+            "readability": 4
+          },
+          {
+            "pr_id": 3177155948,
+            "agent": "Copilot",
+            "model": "Deepseek-V3-0324",
+            "coverage_purpose": 3,
+            "coverage_changes": 5,
+            "rationale_clarity": 4,
+            "commit_coverage": 4,
+            "testing_guidance": 1,
+            "readability": 2
+          }
+        ]
+      },
+      "DeepSeek-V3.1": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 2.5,
+          "coverage_changes": 3.5,
+          "rationale_clarity": 2.7,
+          "commit_coverage": 3.5,
+          "testing_guidance": 2.8,
+          "readability": 3.6
+        },
+        "overall_average": 3.1,
+        "results": [
+          {
+            "pr_id": 3079632972,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 5,
+            "rationale_clarity": 2,
+            "commit_coverage": 3,
+            "testing_guidance": 2,
+            "readability": 3
+          },
+          {
+            "pr_id": 3094173620,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 1,
+            "rationale_clarity": 2,
+            "commit_coverage": 5,
+            "testing_guidance": 1,
+            "readability": 3
+          },
+          {
+            "pr_id": 3268346615,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 3,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 1,
+            "readability": 3
+          },
+          {
+            "pr_id": 3209849017,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 4,
+            "rationale_clarity": 1,
+            "commit_coverage": 4,
+            "testing_guidance": 2,
+            "readability": 2
+          },
+          {
+            "pr_id": 3261757119,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 4,
+            "rationale_clarity": 5,
+            "commit_coverage": 5,
+            "testing_guidance": 1,
+            "readability": 4
+          },
+          {
+            "pr_id": 3242348833,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 2,
+            "coverage_changes": 5,
+            "rationale_clarity": 5,
+            "commit_coverage": 3,
+            "testing_guidance": 4,
+            "readability": 5
+          },
+          {
+            "pr_id": 3178309782,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 5,
+            "rationale_clarity": 1,
+            "commit_coverage": 4,
+            "testing_guidance": 4,
+            "readability": 5
+          },
+          {
+            "pr_id": 3159523566,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 4,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 5,
+            "readability": 4
+          },
+          {
+            "pr_id": 3140383522,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 3,
+            "rationale_clarity": 4,
+            "commit_coverage": 5,
+            "testing_guidance": 5,
+            "readability": 4
+          },
+          {
+            "pr_id": 3177155948,
+            "agent": "Copilot",
+            "model": "DeepSeek-V3.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 1,
+            "rationale_clarity": 3,
+            "commit_coverage": 2,
+            "testing_guidance": 3,
+            "readability": 3
+          }
+        ]
+      },
+      "Grok-3": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 3.2,
+          "coverage_changes": 2.3,
+          "rationale_clarity": 3.0,
+          "commit_coverage": 3.3,
+          "testing_guidance": 3.0,
+          "readability": 3.6
+        },
+        "overall_average": 3.0666666666666664,
+        "results": [
+          {
+            "pr_id": 3094173620,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 5,
+            "coverage_changes": 1,
+            "rationale_clarity": 1,
+            "commit_coverage": 5,
+            "testing_guidance": 2,
+            "readability": 5
+          },
+          {
+            "pr_id": 3079632972,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 2,
+            "coverage_changes": 3,
+            "rationale_clarity": 2,
+            "commit_coverage": 4,
+            "testing_guidance": 5,
+            "readability": 4
+          },
+          {
+            "pr_id": 3209849017,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 1,
+            "coverage_changes": 2,
+            "rationale_clarity": 3,
+            "commit_coverage": 4,
+            "testing_guidance": 2,
+            "readability": 3
+          },
+          {
+            "pr_id": 3268346615,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 4,
+            "coverage_changes": 3,
+            "rationale_clarity": 3,
+            "commit_coverage": 1,
+            "testing_guidance": 3,
+            "readability": 3
+          },
+          {
+            "pr_id": 3261757119,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 5,
+            "coverage_changes": 2,
+            "rationale_clarity": 3,
+            "commit_coverage": 4,
+            "testing_guidance": 1,
+            "readability": 3
+          },
+          {
+            "pr_id": 3242348833,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 3,
+            "coverage_changes": 3,
+            "rationale_clarity": 2,
+            "commit_coverage": 4,
+            "testing_guidance": 5,
+            "readability": 5
+          },
+          {
+            "pr_id": 3178309782,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 4,
+            "coverage_changes": 4,
+            "rationale_clarity": 4,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 1
+          },
+          {
+            "pr_id": 3159523566,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 2,
+            "coverage_changes": 1,
+            "rationale_clarity": 4,
+            "commit_coverage": 2,
+            "testing_guidance": 4,
+            "readability": 5
+          },
+          {
+            "pr_id": 3140383522,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 2,
+            "coverage_changes": 3,
+            "rationale_clarity": 5,
+            "commit_coverage": 4,
+            "testing_guidance": 2,
+            "readability": 3
+          },
+          {
+            "pr_id": 3177155948,
+            "agent": "Copilot",
+            "model": "Grok-3",
+            "coverage_purpose": 4,
+            "coverage_changes": 1,
+            "rationale_clarity": 3,
+            "commit_coverage": 3,
+            "testing_guidance": 4,
+            "readability": 4
+          }
+        ]
+      },
+      "GPT-4.1": {
+        "total_evaluations": 10,
+        "average_scores": {
+          "coverage_purpose": 3.4,
+          "coverage_changes": 3.4,
+          "rationale_clarity": 2.7,
+          "commit_coverage": 2.9,
+          "testing_guidance": 2.8,
+          "readability": 2.7
+        },
+        "overall_average": 2.983333333333333,
+        "results": [
+          {
+            "pr_id": 3079632972,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 3,
+            "rationale_clarity": 5,
+            "commit_coverage": 5,
+            "testing_guidance": 1,
+            "readability": 5
+          },
+          {
+            "pr_id": 3094173620,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 1,
+            "rationale_clarity": 1,
+            "commit_coverage": 4,
+            "testing_guidance": 3,
+            "readability": 1
+          },
+          {
+            "pr_id": 3209849017,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 5,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 2
+          },
+          {
+            "pr_id": 3261757119,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 5,
+            "rationale_clarity": 3,
+            "commit_coverage": 1,
+            "testing_guidance": 1,
+            "readability": 3
+          },
+          {
+            "pr_id": 3268346615,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 1,
+            "rationale_clarity": 1,
+            "commit_coverage": 5,
+            "testing_guidance": 4,
+            "readability": 3
+          },
+          {
+            "pr_id": 3242348833,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 1,
+            "coverage_changes": 3,
+            "rationale_clarity": 5,
+            "commit_coverage": 3,
+            "testing_guidance": 4,
+            "readability": 3
+          },
+          {
+            "pr_id": 3178309782,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 2,
+            "coverage_changes": 3,
+            "rationale_clarity": 2,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 1
+          },
+          {
+            "pr_id": 3159523566,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 5,
+            "coverage_changes": 4,
+            "rationale_clarity": 2,
+            "commit_coverage": 4,
+            "testing_guidance": 4,
+            "readability": 3
+          },
+          {
+            "pr_id": 3140383522,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 3,
+            "coverage_changes": 5,
+            "rationale_clarity": 1,
+            "commit_coverage": 2,
+            "testing_guidance": 2,
+            "readability": 2
+          },
+          {
+            "pr_id": 3177155948,
+            "agent": "Copilot",
+            "model": "GPT-4.1",
+            "coverage_purpose": 4,
+            "coverage_changes": 4,
+            "rationale_clarity": 5,
+            "commit_coverage": 1,
+            "testing_guidance": 5,
+            "readability": 4
+          }
+        ]
+      }
+    }
+  }
+}

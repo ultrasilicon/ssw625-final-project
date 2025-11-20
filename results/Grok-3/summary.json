@@ -1,0 +1,66 @@
+{
+  "model": "Grok-3",
+  "evaluation_date": "2025-11-19 19:42:01",
+  "agents": {
+    "Claude_Code": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.236666666666666,
+        "coverage_changes": 4.466666666666667,
+        "rationale_clarity": 3.6,
+        "commit_coverage": 3.84,
+        "testing_guidance": 3.0166666666666666,
+        "readability": 4.706666666666667
+      },
+      "overall_average": 3.977777777777778
+    },
+    "Copilot": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.6466666666666665,
+        "coverage_changes": 4.706666666666667,
+        "rationale_clarity": 4.2,
+        "commit_coverage": 3.1866666666666665,
+        "testing_guidance": 2.77,
+        "readability": 4.866666666666666
+      },
+      "overall_average": 4.062777777777778
+    },
+    "Cursor": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.3766666666666665,
+        "coverage_changes": 3.2733333333333334,
+        "rationale_clarity": 2.6633333333333336,
+        "commit_coverage": 3.1633333333333336,
+        "testing_guidance": 1.5733333333333333,
+        "readability": 3.993333333333333
+      },
+      "overall_average": 3.007222222222222
+    },
+    "Devin": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.9966666666666666,
+        "coverage_changes": 4.12,
+        "rationale_clarity": 3.0933333333333333,
+        "commit_coverage": 3.6433333333333335,
+        "testing_guidance": 2.6933333333333334,
+        "readability": 4.72
+      },
+      "overall_average": 3.711111111111111
+    },
+    "OpenAI_Codex": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 2.58,
+        "coverage_changes": 3.3133333333333335,
+        "rationale_clarity": 1.3066666666666666,
+        "commit_coverage": 3.4133333333333336,
+        "testing_guidance": 3.203333333333333,
+        "readability": 3.83
+      },
+      "overall_average": 2.9411111111111112
+    }
+  }
+}

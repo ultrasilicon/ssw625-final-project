@@ -1,0 +1,120 @@
+================================================================================
+EVALUATION RESULTS COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+
+Dataset Overview:
+  Total Records: 6,000
+  Models: 4 (Deepseek-V3-0324, DeepSeek-V3.1, Grok-3, GPT-4.1)
+  Agents: 5 (Claude_Code, Copilot, Cursor, Devin, OpenAI_Codex)
+  Criteria: 6
+
+Agent Performance Ranking (by Overall Mean Score):
+--------------------------------------------------
+  1. Copilot        : 4.146
+  2. Claude_Code    : 4.110
+  3. Devin          : 3.912
+  4. OpenAI_Codex   : 3.411
+  5. Cursor         : 3.330
+
+Model Performance Comparison (by Overall Mean Score):
+--------------------------------------------------
+  1. GPT-4.1             : 3.911
+  2. Deepseek-V3-0324    : 3.856
+  3. DeepSeek-V3.1       : 3.820
+  4. Grok-3              : 3.540
+
+Criteria Performance Summary:
+--------------------------------------------------
+  Coverage Purpose:
+    Mean: 4.163 ± 1.044
+    Range: 1 - 5
+    Median: 4.000
+
+  Coverage Changes:
+    Mean: 4.080 ± 0.939
+    Range: 1 - 5
+    Median: 4.000
+
+  Rationale Clarity:
+    Mean: 3.379 ± 1.160
+    Range: 1 - 5
+    Median: 4.000
+
+  Commit Coverage:
+    Mean: 3.820 ± 0.906
+    Range: 1 - 5
+    Median: 4.000
+
+  Testing Guidance:
+    Mean: 2.927 ± 1.275
+    Range: 1 - 5
+    Median: 3.000
+
+  Readability:
+    Mean: 4.321 ± 0.800
+    Range: 1 - 5
+    Median: 4.000
+
+
+Detailed Agent Statistics:
+==================================================
+
+Claude_Code:
+  Evaluations: 1200
+  Models: 4
+  Overall: 4.110 ± 1.042
+  Criteria breakdown:
+    Coverage Purpose: 4.546 ± 0.856
+    Coverage Changes: 4.417 ± 0.777
+    Rationale Clarity: 3.777 ± 0.958
+    Commit Coverage: 4.098 ± 0.892
+    Testing Guidance: 3.209 ± 1.236
+    Readability: 4.612 ± 0.697
+
+Copilot:
+  Evaluations: 1200
+  Models: 4
+  Overall: 4.146 ± 1.037
+  Criteria breakdown:
+    Coverage Purpose: 4.736 ± 0.574
+    Coverage Changes: 4.561 ± 0.831
+    Rationale Clarity: 4.161 ± 0.812
+    Commit Coverage: 3.622 ± 0.968
+    Testing Guidance: 3.143 ± 1.228
+    Readability: 4.656 ± 0.524
+
+Cursor:
+  Evaluations: 1200
+  Models: 4
+  Overall: 3.330 ± 1.345
+  Criteria breakdown:
+    Coverage Purpose: 3.772 ± 1.309
+    Coverage Changes: 3.637 ± 1.093
+    Rationale Clarity: 3.007 ± 1.245
+    Commit Coverage: 3.631 ± 1.007
+    Testing Guidance: 2.002 ± 1.217
+    Readability: 3.931 ± 1.138
+
+Devin:
+  Evaluations: 1200
+  Models: 4
+  Overall: 3.912 ± 1.039
+  Criteria breakdown:
+    Coverage Purpose: 4.366 ± 0.830
+    Coverage Changes: 4.156 ± 0.801
+    Rationale Clarity: 3.542 ± 0.964
+    Commit Coverage: 3.917 ± 0.840
+    Testing Guidance: 3.007 ± 1.264
+    Readability: 4.483 ± 0.611
+
+OpenAI_Codex:
+  Evaluations: 1200
+  Models: 4
+  Overall: 3.411 ± 0.931
+  Criteria breakdown:
+    Coverage Purpose: 3.397 ± 0.853
+    Coverage Changes: 3.632 ± 0.730
+    Rationale Clarity: 2.406 ± 0.890
+    Commit Coverage: 3.833 ± 0.703
+    Testing Guidance: 3.273 ± 0.952
+    Readability: 3.922 ± 0.486

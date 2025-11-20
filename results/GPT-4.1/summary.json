@@ -1,0 +1,66 @@
+{
+  "model": "GPT-4.1",
+  "evaluation_date": "2025-11-19 21:49:45",
+  "agents": {
+    "Claude_Code": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.753333333333333,
+        "coverage_changes": 4.583333333333333,
+        "rationale_clarity": 3.78,
+        "commit_coverage": 4.223333333333334,
+        "testing_guidance": 3.3033333333333332,
+        "readability": 4.826666666666667
+      },
+      "overall_average": 4.245
+    },
+    "Copilot": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.8933333333333335,
+        "coverage_changes": 4.79,
+        "rationale_clarity": 4.263333333333334,
+        "commit_coverage": 3.4766666666666666,
+        "testing_guidance": 3.26,
+        "readability": 4.926666666666667
+      },
+      "overall_average": 4.2683333333333335
+    },
+    "Cursor": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.073333333333333,
+        "coverage_changes": 3.6066666666666665,
+        "rationale_clarity": 3.0566666666666666,
+        "commit_coverage": 3.6066666666666665,
+        "testing_guidance": 1.7866666666666666,
+        "readability": 4.366666666666666
+      },
+      "overall_average": 3.416111111111111
+    },
+    "Devin": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 4.746666666666667,
+        "coverage_changes": 4.43,
+        "rationale_clarity": 3.58,
+        "commit_coverage": 3.9366666666666665,
+        "testing_guidance": 2.91,
+        "readability": 4.923333333333333
+      },
+      "overall_average": 4.087777777777778
+    },
+    "OpenAI_Codex": {
+      "total_prs": 300,
+      "average_scores": {
+        "coverage_purpose": 3.5366666666666666,
+        "coverage_changes": 3.776666666666667,
+        "rationale_clarity": 2.2933333333333334,
+        "commit_coverage": 4.1433333333333335,
+        "testing_guidance": 3.38,
+        "readability": 4.11
+      },
+      "overall_average": 3.5400000000000005
+    }
+  }
+}
