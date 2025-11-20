@@ -218,5 +218,9 @@ __marimo__/
 .DS_Store
 
 *.zip
-*.csv
-*.db
+# *.csv
+# *.db
+
+data/pr_commit_details.csv
+agent_pr.db
+benchmark.db
